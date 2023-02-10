@@ -1,0 +1,382 @@
+from django.shortcuts import render
+from django.conf import settings
+def ceccse_fa(request):
+    return render(request,'ceccse-fa.html')
+def cecfaculties_eceinfo(request):
+    return render(request,'cecfaculties-eceinfo.html')
+def cecfacultiesinfo_cse(request):
+    return render(request,'cecfacultiesinfo-cse.html')
+def cecfaculties_info_me(request):
+    return render(request,'cecfaculties-info-me.html')
+def cecfaculties_iseinfo(request):
+    return render(request,'cecfaculties-iseinfo.html')
+def cecfaculty(request):
+    return render(request,'cecfaculty.html')
+def cecfaculty_info_aiml(request):
+    return render(request,'cecfaculty-info-aiml.html')
+def cecgallery(request):
+    return render(request,'cecgallery.html')
+def cecgoveringcouncil(request):
+    return render(request,'cecgoveringcouncil.html')
+def cecgrievance_portal(request):
+    return render(request,'cecgrievance-portal.html')
+def cechod_amil(request):
+    return render(request,'cechod-amil.html')
+def cechod_bs(request):
+    return render(request,'cechod-bs.html')
+def cechod_ce(request):
+    return render(request,'cechod-ce.html')
+def cechod_cse(request):
+    return render(request,'cechod-cse.html')
+def cechod_ece(request):
+    return render(request,'cechod-ece.html')
+def cechodise(request):
+    return render(request,'cechodise.html')
+def cechod_me(request):
+    return render(request,'cechod-me.html')
+def cechome(request):
+    return render(request,'cechome.html')
+def cecict(request):
+    return render(request,'cecict.html')
+def cecindex(request):
+    return render(request,'cecindex.html')
+def cecindustry_partners(request):
+    return render(request,'cecindustry-partners.html')
+def cecinformationscienceand_enginear(request):
+    return render(request,'cecinformationscienceand-enginear.html')
+def ceciqac(request):
+    return render(request,'ceciqac.html')
+def ceclanguage_lab(request):
+    return render(request,'ceclanguage-lab.html')
+def ceclibrary(request):
+    return render(request,'ceclibrary.html')
+def ceclift(request):
+    return render(request,'ceclift.html')
+def ceclistofcec(request):
+    return render(request,'ceclistofcec.html')
+def cecmagazine(request):
+    return render(request,'cecmagazine.html')
+def cecmagazine_cse(request):
+    return render(request,'cecmagazine-cse.html')
+def cecmemberships(request):
+    return render(request,'cecmemberships.html')
+def cecnaac(request):
+    return render(request,'cecnaac.html')
+def cecotherfacility(request):
+    return render(request,'cecotherfacility.html')
+def cecplaced_20_21(request):
+    return render(request,'cecplaced-20-21.html')
+def cecplaced_20_22(request):
+    return render(request,'cecplaced-20-22.html')
+def cecplacementdevelopments(request):
+    return render(request,'cecplacementdevelopments.html')
+def cecplacementgoals(request):
+    return render(request,'cecplacementgoals.html')
+def cecpotablewatersupply(request):
+    return render(request,'cecpotablewatersupply.html')
+def cecprincipalmsg(request):
+    return render(request,'cecprincipalmsg.html')
+def cecprogramsoffers(request):
+    return render(request,'cecprogramsoffers.html')
+def cecprospectus(request):
+    return render(request,'cecprospectus.html')
+def cecresearchcse_dept(request):
+    return render(request,'cecresearchcse-dept.html')
+def cecresearch_devlopment_cell(request):
+    return render(request,'cecresearch-devlopment-cell.html')
+def cecsport(request):
+    return render(request,'cecsport.html')
+def cecsports(request):
+    return render(request,'cecsports.html')
+def cectransport(request):
+    return render(request,'cectransport.html')
+def cecvehicleparking(request):
+    return render(request,'cecvehicleparking.html')
+def cecvicechairmainmsg(request):
+    return render(request,'cecvicechairmainmsg.html')
+def cecvisionmision(request):
+    return render(request,'cecvisionmision.html')
+def cecvisionmision_ise(request):
+    return render(request,'cecvisionmision-ise.html')
+def cecvision_mission_aiml(request):
+    return render(request,'cecvision-mission-aiml.html')
+def cecvision_mission_ce(request):
+    return render(request,'cecvision-mission-ce.html')
+def cecvision_mission_ece(request):
+    return render(request,'cecvision-mission-ece.html')
+def cecvision_mission_me(request):
+    return render(request,'cecvision-mission-me.html')
+def certificate(request):
+    return render(request,'certificate.html')
+def chairmanmsg(request):
+    return render(request,'chairmanmsg.html')
+def coe(request):
+    return render(request,'coe.html')
+def committees(request):
+    return render(request,'committees.html')
+def company(request):
+    return render(request,'company.html')
+def contact_us(request):
+    return render(request,'contact-us.html')
+def cse_fa(request):
+    return render(request,'cse-fa.html')
+def cse_industry_interaction(request):
+    return render(request,'cse-industry-interaction.html')
+def cseptmreport(request):
+    return render(request,'cseptmreport.html')
+def cse_sa(request):
+    return render(request,'cse-sa.html')
+def cse_vison(request):
+    return render(request,'cse-vison.html')
+def cultural_events(request):
+    return render(request,'cultural-events.html')
+def department_be_ai_m(request):
+    return render(request,'department-be-ai-m.html')
+def department_civil_engineering(request):
+    return render(request,'department-civil-engineering.html')
+def department_computer_science_engineering(request):
+    return render(request,'department-computer-science-engineering.html')
+def department_electronics_communication_engineering(request):
+    return render(request,'department-electronics-communication-engineering.html')
+def department_mechanical_engineering(request):
+    return render(request,'department-mechanical-engineering.html')
+def department_ofbesic_science_fac(request):
+    return render(request,'department-ofbesic-science-fac.html')
+def department_ofbesic_science_humanity(request):
+    return render(request,'department-ofbesic-science-humanity.html')
+def departments(request):
+    return render(request,'departments.html')
+def facilities_ce(request):
+    return render(request,'facilities-ce.html')
+def facilities_ece(request):
+    return render(request,'facilities-ece.html')
+def facilities_me(request):
+    return render(request,'facilities-me.html')
+def faculties_ceinfo(request):
+    return render(request,'faculties-ceinfo.html')
+def faculties_eceinfo(request):
+    return render(request,'faculties-eceinfo.html')
+def facultiesinfo_cse(request):
+    return render(request,'facultiesinfo-cse.html')
+def faculties_info_me(request):
+    return render(request,'faculties-info-me.html')
+def faculties_iseinfo(request):
+    return render(request,'faculties-iseinfo.html')
+def faculty(request):
+    return render(request,'faculty.html')
+def faculty_info_aiml(request):
+    return render(request,'faculty-info-aiml.html')
+def gallery(request):
+    return render(request,'gallery.html')
+def goveringcouncil(request):
+    return render(request,'goveringcouncil.html')
+def grievance_portal(request):
+    return render(request,'grievance-portal.html')
+def hod_amil(request):
+    return render(request,'hod-amil.html')
+def hod_bs(request):
+    return render(request,'hod-bs.html')
+def hod_ce(request):
+    return render(request,'hod-ce.html')
+def hod_cse(request):
+    return render(request,'hod-cse.html')
+def hod_ece(request):
+    return render(request,'hod-ece.html')
+def hodise(request):
+    return render(request,'hodise.html')
+def hod_me(request):
+    return render(request,'hod-me.html')
+def ict(request):
+    return render(request,'ict.html')
+def index(request):
+    return render(request,'index.html')
+def industry_partners(request):
+    return render(request,'industry-partners.html')
+def informationscienceand_enginear(request):
+    return render(request,'informationscienceand-enginear.html')
+def iqac(request):
+    return render(request,'iqac.html')
+def language_lab(request):
+    return render(request,'language-lab.html')
+def library(request):
+    return render(request,'library.html')
+def lift(request):
+    return render(request,'lift.html')
+def listofcec(request):
+    return render(request,'listofcec.html')
+def magazine(request):
+    return render(request,'magazine.html')
+def magazine_cse(request):
+    return render(request,'magazine-cse.html')
+def memberships(request):
+    return render(request,'memberships.html')
+def naac(request):
+    return render(request,'naac.html')
+def otherfacility(request):
+    return render(request,'otherfacility.html')
+def placed_20_21(request):
+    return render(request,'placed-20-21.html')
+def placed_20_22(request):
+    return render(request,'placed-20-22.html')
+def placementdevelopments(request):
+    return render(request,'placementdevelopments.html')
+def placementgoals(request):
+    return render(request,'placementgoals.html')
+def potablewatersupply(request):
+    return render(request,'potablewatersupply.html')
+def principalmsg(request):
+    return render(request,'principalmsg.html')
+def programsoffers(request):
+    return render(request,'programsoffers.html')
+def prospectus(request):
+    return render(request,'prospectus.html')
+def researchcse_dept(request):
+    return render(request,'researchcse-dept.html')
+def research_devlopment_cell(request):
+    return render(request,'research-devlopment-cell.html')
+def sport(request):
+    return render(request,'sport.html')
+def sports(request):
+    return render(request,'sports.html')
+def transport(request):
+    return render(request,'transport.html')
+def vehicleparking(request):
+    return render(request,'vehicleparking.html')
+def vicechairmainmsg(request):
+    return render(request,'vicechairmainmsg.html')
+def visionmision(request):
+    return render(request,'visionmision.html')
+def visionmision_ise(request):
+    return render(request,'visionmision-ise.html')
+def vision_mission_aiml(request):
+    return render(request,'vision-mission-aiml.html')
+def vision_mission_ce(request):
+    return render(request,'vision-mission-ce.html')
+def vision_mission_ece(request):
+    return render(request,'vision-mission-ece.html')
+def vision_mission_me(request):
+    return render(request,'vision-mission-me.html')
+def about_aiml(request):
+    return render(request,'about-aiml.html')
+def about_ce(request):
+    return render(request,'about-ce.html')
+def about_ece(request):
+    return render(request,'about-ece.html')
+def about_ise(request):
+    return render(request,'about-ise.html')
+def about_me(request):
+    return render(request,'about-me.html')
+def aboutus(request):
+    return render(request,'aboutus.html')
+def achievers(request):
+    return render(request,'achievers.html')
+def activities_bs(request):
+    return render(request,'activities-bs.html')
+def activity_ce(request):
+    return render(request,'activity-ce.html')
+def activity_ise(request):
+    return render(request,'activity-ise.html')
+def activityme(request):
+    return render(request,'activityme.html')
+def adminstration(request):
+    return render(request,'adminstration.html')
+def alumni(request):
+    return render(request,'alumni.html')
+def applicationform(request):
+    return render(request,'applicationform.html')
+def bank(request):
+    return render(request,'bank.html')
+def best_faculty(request):
+    return render(request,'best-faculty.html')
+def bridgecourse(request):
+    return render(request,'bridgecourse.html')
+def bs_facilities(request):
+    return render(request,'bs-facilities.html')
+def cecabout_aiml(request):
+    return render(request,'cecabout-aiml.html')
+def cecabout_ce(request):
+    return render(request,'cecabout-ce.html')
+def cecabout_ece(request):
+    return render(request,'cecabout-ece.html')
+def cecabout_ise(request):
+    return render(request,'cecabout-ise.html')
+def cecabout_me(request):
+    return render(request,'cecabout-me.html')
+def cecaboutus(request):
+    return render(request,'cecaboutus.html')
+def cecachievers(request):
+    return render(request,'cecachievers.html')
+def cecactivities_bs(request):
+    return render(request,'cecactivities-bs.html')
+def cecactivity_ce(request):
+    return render(request,'cecactivity-ce.html')
+def cecactivity_ise(request):
+    return render(request,'cecactivity-ise.html')
+def cecactivityme(request):
+    return render(request,'cecactivityme.html')
+def cecadminstration(request):
+    return render(request,'cecadminstration.html')
+def cecalumni(request):
+    return render(request,'cecalumni.html')
+def cecapplicationform(request):
+    return render(request,'cecapplicationform.html')
+def cecbank(request):
+    return render(request,'cecbank.html')
+def cecbest_faculty(request):
+    return render(request,'cecbest-faculty.html')
+def cecbridgecourse(request):
+    return render(request,'cecbridgecourse.html')
+def cecbs_facilities(request):
+    return render(request,'cecbs-facilities.html')
+def ceccertificate(request):
+    return render(request,'ceccertificate.html')
+def cecchairmanmsg(request):
+    return render(request,'cecchairmanmsg.html')
+def ceccoe(request):
+    return render(request,'ceccoe.html')
+def ceccommittees(request):
+    return render(request,'ceccommittees.html')
+def ceccompany(request):
+    return render(request,'ceccompany.html')
+def ceccontact_us(request):
+    return render(request,'ceccontact-us.html')
+def ceccse_industry_interaction(request):
+    return render(request,'ceccse-industry-interaction.html')
+def ceccseptmreport(request):
+    return render(request,'ceccseptmreport.html')
+def ceccse_sa(request):
+    return render(request,'ceccse-sa.html')
+def ceccse_vison(request):
+    return render(request,'ceccse-vison.html')
+def ceccultural_events(request):
+    return render(request,'ceccultural-events.html')
+def cecdepartment_be_ai_m(request):
+    return render(request,'cecdepartment-be-ai-m.html')
+def cecdepartment_civil_engineering(request):
+    return render(request,'cecdepartment-civil-engineering.html')
+def cecdepartment_computer_science_engineering(request):
+    return render(request,'cecdepartment-computer-science-engineering.html')
+def cecdepartment_electronics_communication_engineering(request):
+    return render(request,'cecdepartment-electronics-communication-engineering.html')
+def cecdepartment_mechanical_engineering(request):
+    return render(request,'cecdepartment-mechanical-engineering.html')
+def cecdepartment_ofbesic_science_fac(request):
+    return render(request,'cecdepartment-ofbesic-science-fac.html')
+def cecdepartment_ofbesic_science_humanity(request):
+    return render(request,'cecdepartment-ofbesic-science-humanity.html')
+def cecdepartments(request):
+    return render(request,'cecdepartments.html')
+def cecfacilities_ce(request):
+    return render(request,'cecfacilities-ce.html')
+def cecfacilities_ece(request):
+    return render(request,'cecfacilities-ece.html')
+def cecfacilities_me(request):
+    return render(request,'cecfacilities-me.html')
+def cecfaculties_ceinfo(request):
+    return render(request,'cecfaculties-ceinfo.html')
+def campusnews(request):
+    return render(request,'campusnews.html')
+def Clubtechactivities(request):
+    return render(request,'Clubtechactivities.html')
+def de(request):
+    return render(request,'de.html')
