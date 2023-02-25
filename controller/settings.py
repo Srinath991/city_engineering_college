@@ -29,7 +29,6 @@ ALLOWED_HOSTS = ['srinath128.pythonanywhere.com','127.0.0.1',]
 
 INSTALLED_APPS = [
     'cec_main',
-    'rest_framework',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',

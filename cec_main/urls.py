@@ -157,7 +157,6 @@ urlpatterns=[
     path('hod-ece/',hod_ece,name='hod-ece'),
     path('hod-me/',hod_me,name='hod-me'),
     path('hodise/',hodise,name='hodise'),
-    path('home/',home,name='home'),
     path('ict/',ict,name='ict'),
     path('index/',index,name='index'),
     path('industry-partners/',industry_partners,name='industry-partners'),
